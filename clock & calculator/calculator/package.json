@@ -1,0 +1,12 @@
+{
+  "name": "clock-ai-app",
+  "version": "1.0.0",
+  "description": "Clock website with a local AI chat endpoint",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
