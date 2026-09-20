@@ -1,3 +1,10 @@
 # my-ai-project
-you will love this project 
-this project is made you fill relaxed and give you a amizon experience of digital clock and a calculator 
+
+You will love this project!
+
+This project gives you a relaxing and amazing digital clock and calculator experience.
+
+## Projects
+
+- [Open the Clock & Calculator](https://github.com/Abhisheklolop/my-ai-project/tree/main/clock%20%26%20calculator)
+- [Open the Calculator](https://github.com/Abhisheklolop/my-ai-project/tree/main/clock%20%26%20calculator/calculator)
